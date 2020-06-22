@@ -1,0 +1,23 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div
+{
+    width: 100%;
+    height: 61vw;
+    color: white;
+    background-color: #212121;
+}
+h1, h2, h3
+{
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 204px;
+    text-shadow: 0px 0px 4px  #03a9f4;
+}
+h1{font-size: 96px;}
+h2{font-size: 72px;}
+h3{font-size: 56px;}
